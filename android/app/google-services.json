@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836589253120",
+    "project_id": "flashchat-85121",
+    "storage_bucket": "flashchat-85121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836589253120:android:c3a15fc145e66ef158dee5",
+        "android_client_info": {
+          "package_name": "com.ManavBatra.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836589253120-k2p414ka9elnat0782j98a4lsa36fv9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzNeAdG-YYUfK_m7jnGvIiYGoZ7z0BHrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836589253120-k2p414ka9elnat0782j98a4lsa36fv9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
